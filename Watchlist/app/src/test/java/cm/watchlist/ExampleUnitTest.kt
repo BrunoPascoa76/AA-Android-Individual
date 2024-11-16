@@ -1,4 +1,4 @@
-package cm.homework.watchlist
+package cm.watchlist
 
 import org.junit.Test
 

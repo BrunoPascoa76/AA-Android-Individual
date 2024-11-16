@@ -1,4 +1,4 @@
-package cm.homework.watchlist
+package cm.watchlist
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("cm.homework.watchlist", appContext.packageName)
+        assertEquals("cm.watchlist", appContext.packageName)
     }
 }

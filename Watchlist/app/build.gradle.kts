@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "cm.homework.watchlist"
-    compileSdk = 34
+    namespace = "cm.watchlist"
+    compileSdk = 35
 
     defaultConfig {
-        applicationId = "cm.homework.watchlist"
+        applicationId = "cm.watchlist"
         minSdk = 24
         targetSdk = 34
         versionCode = 1

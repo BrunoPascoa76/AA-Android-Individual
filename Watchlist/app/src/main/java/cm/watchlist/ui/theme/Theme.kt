@@ -1,4 +1,4 @@
-package cm.homework.watchlist.ui.theme
+package cm.watchlist.ui.theme
 
 import android.app.Activity
 import android.os.Build
