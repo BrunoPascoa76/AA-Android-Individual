@@ -1,2 +1,0 @@
-package cm.watchlist.ui
-
