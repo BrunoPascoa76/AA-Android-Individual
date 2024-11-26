@@ -32,7 +32,7 @@ class WatchlistViewModel: ViewModel(){
             val updatedItems = _state.value.items.map {
                 if (it.id == item.id) {
                     it.toggle()
-                } else {
+                } else {        
                     it
                 }
             }
